@@ -1,0 +1,14 @@
+{
+	"name": "oneliner",
+	"description": "A minimal D application.",
+	"copyright": "Copyright (c) 2015, ryuichi",
+	"authors": ["ryuichi"],
+	"dependencies":
+	{
+		"mjtournament":
+		{
+			"path": "../../",
+			"version": "~>0.0"
+		}
+	}
+}
